@@ -1,3 +1,4 @@
+package CLASSES;
 
 public class ValidaCPF {
     public static boolean validarCPF(String cpf) {

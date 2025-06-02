@@ -1,3 +1,4 @@
+package CLASSES;
 
 import java.util.Scanner;
 import java.io.BufferedReader;

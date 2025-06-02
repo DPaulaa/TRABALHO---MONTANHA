@@ -1,5 +1,7 @@
-Pedro: providenciar o Banco de dados e o CRUD
+Pedro: providenciar o Banco de dados e o CRUD + Diagrama de Classe
 Bernardo: terminar os requisitos de txt - 3. Buscar registros (por identificador); 4. Editar registro; 5. Excluir registro.
 Alem disse, se conseguir, o programa esta com o seguinte "problema": toda vez que começa um novo processo, o java cria um novo arquivo
 .txt e substitui o ja existente. não é para substituir o .txt ja existente, e sim inserir novos registros no arquivo ja existente.
 Lembrando que é CASO CONSIGA. 
+
+modelo base do projeto (peguei do RH KKKKKKK): https://github.com/CodingAsRomao/Trabalho-Montanha.git

@@ -1,11 +1,3 @@
-/*
-pedro, seguinte, te informar o que não consegui fazer. não consegui fazer da 3 a 5 (buscar, aditar e excluir) e toda
- vez que começa um novo processo, ele cria um novo .txt e substitui o ja existente. o crud não fiz, porque não entendi muito.
-*/
-
-
-
-
 
 import java.util.Scanner;
 import java.io.BufferedReader;
